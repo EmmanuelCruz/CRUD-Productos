@@ -73,4 +73,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 Instalación con 
 
-    npm i react-redux redux redux-thunk
+                npm i react-redux redux redux-thunk
+
+### Sobre Servidor
+
+Se tiene un servidor local que simula API
+
+                http://localhost:4000/productos
+
+Inicia con el siguiente comando
+
+                http://localhost:4000/productos
